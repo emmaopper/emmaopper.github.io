@@ -7,8 +7,8 @@ author_profile: true
 
 ---
 Received the 2026 NDSEG Fellowship
-May 2026
 ---
+*May 2026*
 
 The Department of Applied Mathematics featured my selection as a recipient of the 2026 National Defense Science and Engineering Graduate (NDSEG) Fellowship. The fellowship supports my research on kinetic-informed continuum modeling for the space-atmosphere interaction region under the guidance of Dr. Tomoko Matsuo and Dr. John Evans. 
 
