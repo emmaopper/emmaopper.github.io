@@ -74,6 +74,9 @@ Teaching Experience
 
 Presentations
 ======
+* SIAM Math for Planet Earth Conference, Cleveland, OH, 2026
+  * "Recasting Transitional Gas-Flow Modeling as a Data-Driven Closure Problem" (lecture)
+
 * Fluid Dynamics and Sustainability of the Environment Summer School, Cambridge, UK, 2025
   * "Optimizing Sub-grid Scale Models for Large Eddy Simulation" (poster)
 
