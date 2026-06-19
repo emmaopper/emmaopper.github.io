@@ -9,15 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Ph.D. in Applied Mathematics, University of Colorado Boulder, 2029 (expected)
   * GPA: 4.0/4.0
 * B.S. in Mathematics, minor in Professional Writing in Science Communication, University of California Santa Barbara, 2024
   * GPA: 3.91/4.0
 
-Research Experience
-======
+## Research Interests
+* Geophysical Fluid Dynamics
+* Numerical Methods for PDEs
+* Transitional Gas Flows
+  
+## Research Experience
 * Graduate Research Assistant, University of Colorado Boulder, Summer 2025
   * Advisors: Dr. Tomoko Matsuo and Dr. John Evans
   * Used the inviscid Burgers' equation as a testbed for Large Eddy Simulation (LES) research
@@ -42,14 +45,12 @@ Research Experience
   * Analyzed magnetogram data from SOHO and SDO missions
   * Performed statistical analysis of supergranule properties and solar activity relationships
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Honors and Awards
-======
+## Honors and Awards
 * National Defense Science and Engineering Graduate (NDSEG) Fellowship, 2026
 * Smead Travel Grant, 2025
 * CU Graduate School Travel Grant, 2025
@@ -61,8 +62,7 @@ Honors and Awards
 * Ostrow-Bruckner Honorary Scholarship, 2022
 * Benjamin A. Gilman Scholarship, 2022
 
-Teaching Experience
-======
+## Teaching Experience
 * Teaching Assistant, University of Colorado Boulder, 2023–Present
   * Led recitation sections for Differential Equations and Multivariable Calculus
   * Designed lesson plans, worksheets, and quizzes
@@ -72,8 +72,7 @@ Teaching Experience
   * Tutored students in calculus, linear algebra, and differential equations
   * Led exam review sessions and group tutorials
 
-Presentations
-======
+## Presentations
 * SIAM Conference on Mathematics for Planet Earth, Cleveland, OH, 2026
   * "Recasting Transitional Gas-Flow Modeling as a Data-Driven Closure Problem" (lecture)
 
@@ -92,8 +91,7 @@ Presentations
 * UCSB Directed Reading Program Poster Session, Santa Barbara, CA, 2023
   * "The Gauss–Bonnet Theorem and its Applications" (poster)
 
-Leadership and Service
-======
+## Leadership and Service
 * Lead Teaching Assistant, University of Colorado Boulder, 2025–Present
   * Lead weekly teaching seminars for first-time graduate teaching assistants
 
@@ -112,8 +110,7 @@ Leadership and Service
 * SciTrek Volunteer, 2022
   * Taught elementary school students the scientific method through hands-on activities
 
-Technical Skills
-======
+## Technical Skills
 * Languages: Python, Julia, MATLAB, Java, LaTeX
 * Tools: Git, GitHub, Linux, VS Code
 * Libraries: NumPy, Pandas, Matplotlib
