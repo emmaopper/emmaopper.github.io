@@ -2,7 +2,7 @@
 title: "Differential Equations/Linear Algebra Recitation, Fall 2024"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-fall-teaching
 venue: "University of Colorado, Boulder"
 date: 2024-08-26
 location: "Boulder, CO"
