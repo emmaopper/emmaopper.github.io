@@ -17,8 +17,8 @@ redirect_from:
 
 ## Research Interests
 * Geophysical Fluid Dynamics
-* Numerical Methods for PDEs
 * Transitional Gas Flows
+* Numerical Methods for PDEs
   
 ## Research Experience
 * Graduate Research Assistant, University of Colorado Boulder, Summer 2025
