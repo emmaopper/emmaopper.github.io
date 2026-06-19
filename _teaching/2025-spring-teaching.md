@@ -2,7 +2,7 @@
 title: "Multivariable Calculus Recitation, Spring 2025"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2025-spring-teaching
 venue: "University of Colorado, Boulder"
 date: 2025-01-04
 location: "Boulder, CO"
